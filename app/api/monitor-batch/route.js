@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import { scrapeNaverBatchRanks } from "../../../lib/naverSearchScraper";
 
 export async function POST(req) {
