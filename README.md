@@ -1,2 +1,2 @@
 # project3 rank monitor
-deploy trigger now
+deploy trigger now2
